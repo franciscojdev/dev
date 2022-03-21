@@ -1,14 +1,22 @@
 {
   "files": {
     "main.css": "/dev/static/css/main.9042ff8d.css",
-    "main.js": "/dev/static/js/main.262c37d4.js",
+    "main.js": "/dev/static/js/main.d2213ec6.js",
+    "static/media/mars-sq.jpg": "/dev/static/media/mars-sq.61c8f0e13dfa34e2422b.jpg",
     "static/media/1_final_tiny.png": "/dev/static/media/1_final_tiny.17387244d37004020da3.png",
+    "static/media/user-sq.jpg": "/dev/static/media/user-sq.65b6fb2b15e349b0d361.jpg",
+    "static/media/debiconta-sq.jpg": "/dev/static/media/debiconta-sq.e684a285189fe96a337e.jpg",
+    "static/media/gallery-sq.jpg": "/dev/static/media/gallery-sq.6ec3d3ad9626f1eaf6ad.jpg",
+    "static/media/mars-thumb.jpg": "/dev/static/media/mars-thumb.e755fff125ad74cc2cd2.jpg",
+    "static/media/user-thumb.jpg": "/dev/static/media/user-thumb.93063a041825ba008629.jpg",
+    "static/media/debiconta-thumb.jpg": "/dev/static/media/debiconta-thumb.02590b1178d9f80507f4.jpg",
+    "static/media/gallery-thumb.jpg": "/dev/static/media/gallery-thumb.d8064504bef15739ef1b.jpg",
     "index.html": "/dev/index.html",
     "main.9042ff8d.css.map": "/dev/static/css/main.9042ff8d.css.map",
-    "main.262c37d4.js.map": "/dev/static/js/main.262c37d4.js.map"
+    "main.d2213ec6.js.map": "/dev/static/js/main.d2213ec6.js.map"
   },
   "entrypoints": [
     "static/css/main.9042ff8d.css",
-    "static/js/main.262c37d4.js"
+    "static/js/main.d2213ec6.js"
   ]
 }
